@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunkumar
-- 👀 I’m interested in 🏍,driving
+- 👀 I’m interested in 🏍 driving,💻
 - 🌱 I’m currently learning MERNstack web development..
 - 📫 How to reach me @arunkumarpalpandi3@gmail.com
 
