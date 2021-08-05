@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arunkumar
 - 👀 I’m interested in 🏍 driving,💻
-- 🌱 I’m currently learning MERNstack web development..
+- 🌱 I’m currently learning MCA at RVS college of arts and science
 - 📫 How to reach me @arunkumarpalpandi3@gmail.com
 
 <!---
